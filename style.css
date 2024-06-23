@@ -1,0 +1,36 @@
+label
+{
+  font-weight: bold;
+  font-size: 14px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+  margin-top: 4px;
+  color:rgb(88, 88, 247);
+}
+input{
+  margin-bottom: 12px;
+  text-align: center;
+}
+.div{
+  background-color: white;
+  box-shadow: 1.5px 3px 0.2;
+  display: inline-block;
+  text-align: center;
+  padding: 40px;
+  box-shadow: 2px 1.5px 9px rgba(0,0,0, 0.7);
+}
+button
+{
+  margin-top: 22px;
+  padding: 6px;
+  background-color: rgb(243, 58, 58);
+  border: none;
+  color: white;
+  width: 70px;
+  border-radius: 4px;
+}
+p{
+font-weight: bold;
+font-size: 20px;
+}
